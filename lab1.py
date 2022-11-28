@@ -10,6 +10,7 @@ def calculate_func1(x, y, z):
     finally:
         return f
 
+print("TASK 1!!!")
 try:
     x = float(input("x="))  # 0.01655
     y = float(input("y="))  # -2.75
